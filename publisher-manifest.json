@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c9ae3e54f5e20fd800c92a06",
+  "owner": "ccbmykayw",
+  "repo": "page-0b64ab8f538e477ffda4c3ac",
+  "title": "SuperFly",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0b64ab8f538e477ffda4c3ac",
+      "a": "SuperFly",
+      "b": "稳定全球clash加速器",
+      "entity": "SuperFly",
+      "brand": "SuperFly",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ba093f6db3f748e1d2de9b24efb928145f18c1f27ffaaa1681cf0b971a5dd6a7",
+      "content": {
+        "primary_entity": "SuperFly",
+        "keyword1": "SuperFly",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，SuperFly 面向需要稳定全球连接的 clahs 用户，提供基础版、旗舰版、团队版三档订阅，按设备数量与月流量区分。基础版适合手机与平板轻度使用，旗舰版侧重流媒体与游戏专线，团队版支持多设备并发与定制路由。注册后可自行选择客户端导入订阅，按年付享有更低的月均成本。",
+          "AI_HERO_SUBTITLE": "多设备畅连全球节点",
+          "AI_HERO_INTRO": "SuperFly 提供三档订阅方案，按设备数量、月流量与节点线路区分。基础版覆盖日常浏览与基础流媒体，旗舰版叠加专线与优先支持，团队版适配多设备与定制路由。用户根据自身设备数与使用场景选择周期，按年付可降低月均支出。",
+          "AI_VISUAL_TITLE": "SuperFly 多档订阅畅连全球",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数与流量区分",
+          "AI_HIGHLIGHT_2": "旗舰版含专线与流媒体解锁",
+          "AI_HIGHLIGHT_3": "按年付月均成本更低",
+          "AI_FEATURES_TITLE": "订阅要点",
+          "AI_FEATURES_INTRO": "从设备规模与使用场景出发，SuperFly 的套餐差异集中在流量、并发设备与节点线路。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台同时在线。",
+          "AI_FEATURE_TITLE_2": "看流量与线路",
+          "AI_FEATURE_TEXT_2": "三档分别提供 100GB、300GB 与 1000GB 月流量，旗舰版含 IPLC 专线。",
+          "AI_FEATURE_TITLE_3": "按周期付费",
+          "AI_FEATURE_TEXT_3": "月付灵活起步，按年付可参考年费价格折算月均成本。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，再导入 SuperFly 订阅配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月，按年付分别为 ¥150、¥350、¥850。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_GUIDE_INTRO": "选择套餐后查看设备适配要求，再依照所用客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版与团队版之间选择。",
+          "AI_STEP_TITLE_2": "查适配",
+          "AI_STEP_TEXT_2": "确认当前设备系统与客户端版本，确保满足所选套餐的设备数量上限。",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_STEP_TEXT_3": "按照所用客户端文档导入 SuperFly 订阅链接，保存后测试节点连通。",
+          "AI_CLOSING_TITLE": "选对套餐",
+          "AI_CLOSING_TEXT": "按设备规模与流量需求锁定档位，按年付进一步降低月均成本。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "SuperFly 三档套餐的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备并含 IPLC 专线；团队版每月 1000GB、支持 20 台设备并含 VIP 高带宽节点与定制路由。",
+          "AI_FAQ_QUESTION_2": "订阅链接可以同时在多台设备使用吗？",
+          "AI_FAQ_ANSWER_2": "每档方案对同时在线设备数量有不同限制，基础版 3 台、旗舰版 5 台、团队版 20 台。超出数量时，需要升级套餐或调整设备使用安排。",
+          "AI_FAQ_QUESTION_3": "年付比月付能节省多少费用？",
+          "AI_FAQ_ANSWER_3": "基础版年付 ¥150 对比月付累计 ¥180，旗舰版年付 ¥350 对比月付累计 ¥420，团队版年付 ¥850 对比月付累计 ¥1020，年付均有一定幅度优惠。",
+          "AI_FAQ_QUESTION_4": "如何把订阅导入到客户端？",
+          "AI_FAQ_ANSWER_4": "先在客户端中选择订阅或配置导入功能，粘贴订阅链接，保存后更新节点列表即可。不同客户端的导入路径略有差异，可参阅对应客户端的说明文档。",
+          "AI_FAQ_QUESTION_5": "流量用完后会怎样？",
+          "AI_FAQ_ANSWER_5": "当月流量达到套餐额度后，连接可能受限。可以等到下个计费周期恢复，或升级到更高流量的套餐档位继续使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "aixachang.cn",
+    "host": "aixachang.cn"
+  },
+  "file_hashes": {
+    "index.html": "6de6da07979f8d01c8fb9221ae086218cdae81eb6740812e49067aa42739b74d",
+    "sitemap.xml": "bd5846f0617b20f2f8edc3a749377dfa756cace6c728a14a4480e7fb684cb499",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1c4527ff505e99f5a829631b3337c4ab85526bc192fd8c771a13abe5ddc06fed",
+    "robots.txt": "cabcabe15a370025b1a405b3260d0a8ce662d7d1d3e179b3b865e678c63f009a",
+    "478b812651f1441b548035df4c888c4b.txt": "0908244062aeea50af0ac9650d4454f5add82abc177919e44d98c0f91da658bf"
+  },
+  "revision": "8b16025181fd05ebbb2e0ac4883ee5fb270fba90ea9c0eaeedf07ddd722362fb"
+}
